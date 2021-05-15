@@ -1,0 +1,95 @@
+﻿body {
+    margin: 2em 10em !important; 
+}
+
+header .logo img{
+    width:5% !important;
+}
+
+.meni ul li{
+    display:inline;
+    padding-right:20px;
+}
+.meni ul{
+    float:right;
+    position:relative !important;
+    top:-30px !important;
+}
+
+a{
+    text-decoration:none !important;
+    color:#000000 !important;
+    font-size:18px;
+}
+
+#main{
+    margin-top:2em;
+}
+
+#main .text-levo{
+    margin-top:10em;
+    padding: 0 !important;
+}
+
+.sino-kopce {
+    padding: 15px 30px;
+    background-color: #338CF2;
+    color: #ffffff !important;
+    position:relative;
+    top: 3em;
+}
+
+
+.container{
+    padding: 0 !important;
+}
+
+.slika-levo {
+    width: 80%;
+    
+}
+
+.tri-koloni{
+    text-align:center;
+
+
+}
+
+.tri-koloni i{
+    font-size:50px;
+}
+
+.tekst-slika-levo{
+    margin-top:3em !important;
+}
+
+.tekst-slika-levo img{
+    width:40%;
+    position:relative;
+    left: 6em;
+}
+
+img.slika-levo2{
+    width:50%;
+    position:relative;
+    left:8em;
+}
+
+.cetvrt-section{
+    margin-top:5em !important;
+}
+
+.tekst-ikona{
+    position:relative;
+    left:-10em;
+}
+
+.petti-section h3{
+    text-align:center;
+    font-size: 28px;
+}
+
+.kartici {
+    position: relative;
+    left: 40px;
+}
